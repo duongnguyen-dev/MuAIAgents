@@ -1,0 +1,6 @@
+@api.muaiagent.vn_HostAddress = http://localhost:5004
+
+GET {{api.muaiagent.vn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

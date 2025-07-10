@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muaiagent.vn", "muaiagent.vn\muaiagent.vn.csproj", "{EB12642F-F5A5-4A1D-A4C7-EE6D625EBAE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.muaiagent.vn", "api.muaiagent.vn\api.muaiagent.vn.csproj", "{6295C374-56DB-4F21-AE7A-88E16DDE5504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuAIAgent.Utilities", "MuAIAgent.Utilities\MuAIAgent.Utilities.csproj", "{68FD91B7-40C0-4092-9E3C-8469457B1F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB12642F-F5A5-4A1D-A4C7-EE6D625EBAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB12642F-F5A5-4A1D-A4C7-EE6D625EBAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB12642F-F5A5-4A1D-A4C7-EE6D625EBAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB12642F-F5A5-4A1D-A4C7-EE6D625EBAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6295C374-56DB-4F21-AE7A-88E16DDE5504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6295C374-56DB-4F21-AE7A-88E16DDE5504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6295C374-56DB-4F21-AE7A-88E16DDE5504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6295C374-56DB-4F21-AE7A-88E16DDE5504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FD91B7-40C0-4092-9E3C-8469457B1F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FD91B7-40C0-4092-9E3C-8469457B1F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FD91B7-40C0-4092-9E3C-8469457B1F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FD91B7-40C0-4092-9E3C-8469457B1F19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
